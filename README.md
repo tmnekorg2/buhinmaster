@@ -1,2 +1,2 @@
-# buhinmaster
-部品マスター
+# buhinriyou
+部品利用
